@@ -29,7 +29,7 @@ This project is license under MIT
 
 ## Contributing 
 Contributors should read the installation section. 
-Fabian Ingram any others must notify.
+(Fabian Ingram) any others must notify.
 
 ## Tests
 There are no tests for this application. 
