@@ -20,8 +20,8 @@ No installation needed.
 This is not a function application. It is for test purposes.<br>
 Please view deployed with live server : http://127.0.0.1:5500/code-refactor/index.html
 
-<img src="./assets/images/Website-1.png">
-<img src="./assets/images/Website-2.png">
+<img width="927" alt="Screen Shot 2021-01-21 at 6 34 16 PM" src="https://user-images.githubusercontent.com/68198938/105433833-9f353680-5c17-11eb-9383-4247de07c2d2.png">
+<img width="921" alt="Screen Shot 2021-01-21 at 6 35 05 PM" src="https://user-images.githubusercontent.com/68198938/105433837-a0666380-5c17-11eb-9b81-fafc3a835db6.png">
 
 
 ## License 
