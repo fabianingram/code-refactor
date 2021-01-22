@@ -35,4 +35,4 @@ Contributors should read the installation section.
 There are no tests for this application. 
 
 ## Questions
-If you have any questions about this projects, please contact me directly at fabianjammalingram@gmail.comn You can view more of my projects at https://github.com/fabianingram/code-refactor/).
+If you have any questions about this projects, please contact me directly at fabianjammalingram@gmail.com You can view more of my projects at https://github.com/fabianingram/code-refactor/).
