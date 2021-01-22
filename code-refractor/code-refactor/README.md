@@ -1,5 +1,5 @@
 # Code Refactor 
-![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
+
 
 ## Description 
 This project's purpose was to refactor a webpage so that the links are function, CSS selectors/properties are consolidated and sematic and to optimize the code for search engines. 
@@ -32,4 +32,4 @@ Contributors should read the installation section.
 There are no tests for this application. 
 
 ## Questions
-If you have any questions about this projects, please contact me directly at nicole.elisaw@gmail.com. You can view more of my projects at https://github.com/nicolewallace09.
+If you have any questions about this projects, please contact me directly at fabianjammalingram@gmail.comn You can view more of my projects at https://github.com/fabianingram/coderefactor/).
