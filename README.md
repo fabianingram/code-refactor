@@ -1,4 +1,4 @@
-# code-refactor
+
 # Code Refactor 
 
 
@@ -18,7 +18,8 @@ No installation needed.
 
 ## Usage 
 This is not a function application. It is for test purposes.<br>
-Please view deployed Git Hub [URL](https://nicolewallace09.github.io/challenge-code-refactor/)
+Please view deployed with live server : http://127.0.0.1:5500/code-refactor/index.html
+
 <img src="./assets/images/Website-1.png">
 <img src="./assets/images/Website-2.png">
 
